@@ -1,0 +1,5 @@
+FROM phi
+
+PARAMETER num_ctx 1024
+PARAMETER num_batch 16
+

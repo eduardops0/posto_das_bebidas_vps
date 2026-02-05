@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+/.env
+/storage/*.key
+/public/storage
+/.idea
+/.vscode
+/.DS_Store
+npm-debug.log*
+yarn-error.log*
+/bootstrap/cache/*.php
